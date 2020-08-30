@@ -1,0 +1,198 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "OSCAR BETTA",
+      "description": "This is product 1",
+      "price": 500,
+      "imgUrl": "https://i.pinimg.com/originals/27/c5/f8/27c5f8f62d5765ca1b6f9dc518061059.png"
+    },
+    {
+      "id": 2,
+      "name": "WILD BETTA",
+      "description": "This is product 2",
+      "price": 300,
+      "imgUrl": "https://nitrocdn.com/fUnKXkELuoBZQmBrynJRxDgPPalICfwm/assets/static/optimized/rev-2fd66a3/wp-content/uploads/2020/02/The-Betta-Siamese-fighting-fish-Betta-splendens-Pla-kad-biting-fish--e1582265338348.jpg"
+    },
+    {
+      "id": 3,
+      "name": "PREMIUM BETTA",
+      "description": "This is product 3",
+      "price": 800,
+      "imgUrl": "https://i.pinimg.com/originals/e4/23/36/e42336e7fe232f363d3dd61792e27984.jpg"
+    },
+    {
+      "id": 4,
+      "name": "LOCAL BETTA",
+      "description": "This is product 4",
+      "price": 600,
+      "imgUrl": "https://i.pinimg.com/originals/e0/85/49/e08549fb9118ed8c35517342e11a3b28.jpg"
+    },
+    {
+      "id": 5,
+      "name": "ARGAN BETTA",
+      "description": "This is product 5",
+      "price": 700,
+      "imgUrl": "https://st2.depositphotos.com/2689985/9062/i/450/depositphotos_90622410-stock-photo-betta-fish-siamese-fighting-fish.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "OSCAR BETTA",
+        "description": "This is product 1",
+        "price": 500,
+        "imgUrl": "https://i.pinimg.com/originals/27/c5/f8/27c5f8f62d5765ca1b6f9dc518061059.png"
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "WILD BETTA",
+        "description": "This is product 2",
+        "price": 300,
+        "imgUrl": "https://nitrocdn.com/fUnKXkELuoBZQmBrynJRxDgPPalICfwm/assets/static/optimized/rev-2fd66a3/wp-content/uploads/2020/02/The-Betta-Siamese-fighting-fish-Betta-splendens-Pla-kad-biting-fish--e1582265338348.jpg"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "PREMIUM BETTA",
+        "description": "This is product 3",
+        "price": 800,
+        "imgUrl": "https://i.pinimg.com/originals/e4/23/36/e42336e7fe232f363d3dd61792e27984.jpg"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "LOCAL BETTA",
+        "description": "This is product 4",
+        "price": 600,
+        "imgUrl": "https://i.pinimg.com/originals/e0/85/49/e08549fb9118ed8c35517342e11a3b28.jpg"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "OSCAR BETTA",
+        "description": "This is product 1",
+        "price": 500,
+        "imgUrl": "https://i.pinimg.com/originals/27/c5/f8/27c5f8f62d5765ca1b6f9dc518061059.png"
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "WILD BETTA",
+        "description": "This is product 2",
+        "price": 300,
+        "imgUrl": "https://nitrocdn.com/fUnKXkELuoBZQmBrynJRxDgPPalICfwm/assets/static/optimized/rev-2fd66a3/wp-content/uploads/2020/02/The-Betta-Siamese-fighting-fish-Betta-splendens-Pla-kad-biting-fish--e1582265338348.jpg"
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "PREMIUM BETTA",
+        "description": "This is product 3",
+        "price": 800,
+        "imgUrl": "https://i.pinimg.com/originals/e4/23/36/e42336e7fe232f363d3dd61792e27984.jpg"
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "LOCAL BETTA",
+        "description": "This is product 4",
+        "price": 600,
+        "imgUrl": "https://i.pinimg.com/originals/e0/85/49/e08549fb9118ed8c35517342e11a3b28.jpg"
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "OSCAR BETTA",
+        "description": "This is product 1",
+        "price": 500,
+        "imgUrl": "https://i.pinimg.com/originals/27/c5/f8/27c5f8f62d5765ca1b6f9dc518061059.png"
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "WILD BETTA",
+        "description": "This is product 2",
+        "price": 300,
+        "imgUrl": "https://nitrocdn.com/fUnKXkELuoBZQmBrynJRxDgPPalICfwm/assets/static/optimized/rev-2fd66a3/wp-content/uploads/2020/02/The-Betta-Siamese-fighting-fish-Betta-splendens-Pla-kad-biting-fish--e1582265338348.jpg"
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "PREMIUM BETTA",
+        "description": "This is product 3",
+        "price": 800,
+        "imgUrl": "https://i.pinimg.com/originals/e4/23/36/e42336e7fe232f363d3dd61792e27984.jpg"
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "PREMIUM BETTA",
+        "description": "This is product 3",
+        "price": 800,
+        "imgUrl": "https://i.pinimg.com/originals/e4/23/36/e42336e7fe232f363d3dd61792e27984.jpg"
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "PREMIUM BETTA",
+        "description": "This is product 3",
+        "price": 800,
+        "imgUrl": "https://i.pinimg.com/originals/e4/23/36/e42336e7fe232f363d3dd61792e27984.jpg"
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "OSCAR BETTA",
+        "description": "This is product 1",
+        "price": 500,
+        "imgUrl": "https://i.pinimg.com/originals/27/c5/f8/27c5f8f62d5765ca1b6f9dc518061059.png"
+      },
+      "id": 14
+    }
+  ]
+}
